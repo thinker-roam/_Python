@@ -1,3 +1,4 @@
+# Base Rules
 <ai_thinking_protocol>
     <description>此协议是由自然语言+类XML语法构成的AI行为指引（并非代码），Ai 应像人类阅读“员工手册”一样理解协议的内容</description>
     <example>
@@ -92,3 +93,24 @@
         说人话！
     </response>
 </ai_thinking_protocol>
+
+# Directory Structure
+\
+├── RULES.md               # ai prompt
+├── README.md              # 项目说明文档
+├── .gitignore             # Git 忽略文件
+├── Jupyter-Notes\          # Python学习笔记（按主题组织）
+│   ├── 01-基础语法\        # 基础语法相关笔记
+│   │   ├── 1.ipynb         # Hello World
+│   │   ├── 2.ipynb         # 变量与数据类型
+│   │   └── ...
+│   └── ...
+├── Project-Notes\          # 项目笔记（此仓库只针对 OpenManus 项目）
+│   └── ...
+├── resources\              # 克隆的开源项目（按项目组织）
+│   └── OpenManus\
+└── utils\                  # 通用工具脚本
+    └── ...
+
+# Notes 
+> ai 在对话过程中捕获的经验应记录在这里！
