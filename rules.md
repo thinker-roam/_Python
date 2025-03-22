@@ -99,13 +99,11 @@
 ├── RULES.md               # ai prompt
 ├── README.md              # 项目说明文档
 ├── .gitignore             # Git 忽略文件
-├── Jupyter-Notes\          # Python学习笔记（按主题组织）
-│   ├── 01-基础语法\        # 基础语法相关笔记
-│   │   ├── 1.ipynb         # Hello World
-│   │   ├── 2.ipynb         # 变量与数据类型
-│   │   └── ...
+├── Jupyter-Notes\          # 用户的 Python 学习笔记（历史笔记）
+│   ├── 1.ipynb         # Hello World
+│   ├── 2.ipynb         # 变量与数据类型
 │   └── ...
-├── Project-Notes\          # 项目笔记（此仓库只针对 OpenManus 项目）
+├── Project-Notes\     # 项目笔记（此仓库只针对 OpenManus 项目|新笔记存放位置）
 │   └── ...
 ├── resources\              # 克隆的开源项目（按项目组织）
 │   └── OpenManus\
