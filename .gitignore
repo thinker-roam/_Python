@@ -1,1 +1,15 @@
 resources/*
+
+.obsidian/*
+.mind/*
+.baks/*
+.docs/*
+
+# history vscode 扩展
+.history/
+
+
+# cursor 
+.cursorrules
+.cursorignore
+.cursor/*
