@@ -1,6 +1,7 @@
 resources/*
 
 .obsidian/*
+Project-Notes/.obsidian/*
 .mind/*
 .baks/*
 .docs/*
